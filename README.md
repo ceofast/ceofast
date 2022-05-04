@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem Bıkmaz</h1>
-<h3 align="center">Industrial Engineer|Data Science & Machine Learning Bootcamp Participant at Veri Bilimi Okulu</h3>
+<h3 align="center">Industrial Engineer | Data Scientist & Machine Learning Engineer | MLOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceofast&label=Profile%20views&color=0e75b6&style=flat" alt="ceofast" /> </p>
 
