@@ -48,10 +48,5 @@
 </p>
 
 ---
-
-### ✨ Küçük Notlar
-- Kart temalarını değiştirmek istersen `theme=` parametresi ile oynayabilirsin (ör: `tokyonight`, `radical`, `merko`).
-- Snake için `.svg` veya `.gif` kullanabilirsin. Ben .svg’yi gösterdim; dilersen alttaki satırı da ekleyebilirsin:
-  ```md
-  <!-- Alternatif GIF -->
-  <!-- ![snake gif](https://github.com/ceofast/ceofast/blob/output/github-contribution-grid-snake.gif) -->
+<!-- Footer banner -->
+<!-- ![snake gif](https://github.com/ceofast/ceofast/blob/output/github-contribution-grid-snake.gif) -->
