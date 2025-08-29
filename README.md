@@ -41,12 +41,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceofast&theme=radical" height="180" />
 </p>
 
-## 🐍 Contribution Snake
-> Aşağıdaki yılan animasyonu GitHub Actions ile otomatik üretilir.
-<p align="center">
-  <img src="https://github.com/ceofast/ceofast/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-<!-- Footer banner -->
-<!-- ![snake gif](https://github.com/ceofast/ceofast/blob/output/github-contribution-grid-snake.gif) -->
+  <!-- <img src="https://github.com/ceofast/ceofast/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/> -->
